@@ -1,0 +1,10 @@
+G:\PRG\C#\OOP Test\OOP Test\obj\Debug\OOP Test.csprojAssemblyReference.cache
+G:\PRG\C#\OOP Test\OOP Test\obj\Debug\OOP_Test.Form1.resources
+G:\PRG\C#\OOP Test\OOP Test\obj\Debug\OOP_Test.Properties.Resources.resources
+G:\PRG\C#\OOP Test\OOP Test\obj\Debug\OOP Test.csproj.GenerateResource.cache
+G:\PRG\C#\OOP Test\OOP Test\obj\Debug\OOP Test.csproj.CoreCompileInputs.cache
+G:\PRG\C#\OOP Test\OOP Test\bin\Debug\OOP Test.exe.config
+G:\PRG\C#\OOP Test\OOP Test\bin\Debug\OOP Test.exe
+G:\PRG\C#\OOP Test\OOP Test\bin\Debug\OOP Test.pdb
+G:\PRG\C#\OOP Test\OOP Test\obj\Debug\OOP Test.exe
+G:\PRG\C#\OOP Test\OOP Test\obj\Debug\OOP Test.pdb
